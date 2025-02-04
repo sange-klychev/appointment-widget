@@ -1,0 +1,370 @@
+{
+  "stations": [
+    {
+      "id": "1",
+      "name": "Station 1",
+      "location": "Location 1",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Station 2",
+      "location": "Location 2",
+      "status": "Inactive"
+    },
+    {
+      "id": "3",
+      "name": "Station 3",
+      "location": "Location 3",
+      "status": "Active"
+    },
+    {
+      "id": "4",
+      "name": "Station 4",
+      "location": "Location 4",
+      "status": "Inactive"
+    },
+    {
+      "id": "5",
+      "name": "Station 5",
+      "location": "Location 5",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "name": "Station 6",
+      "location": "Location 6",
+      "status": "Inactive"
+    },
+    {
+      "id": "7",
+      "name": "Station 7",
+      "location": "Location 7",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "name": "Station 8",
+      "location": "Location 8",
+      "status": "Inactive"
+    },
+    {
+      "id": "9",
+      "name": "Station 9",
+      "location": "Location 9",
+      "status": "Active"
+    },
+    {
+      "id": "10",
+      "name": "Station 10",
+      "location": "Location 10",
+      "status": "Inactive"
+    },
+    {
+      "id": "11",
+      "name": "Station 11",
+      "location": "Location 11",
+      "status": "Active"
+    },
+    {
+      "id": "12",
+      "name": "Station 12",
+      "location": "Location 12",
+      "status": "Inactive"
+    },
+    {
+      "id": "13",
+      "name": "Station 13",
+      "location": "Location 13",
+      "status": "Active"
+    },
+    {
+      "id": "14",
+      "name": "Station 14",
+      "location": "Location 14",
+      "status": "Inactive"
+    },
+    {
+      "id": "15",
+      "name": "Station 15",
+      "location": "Location 15",
+      "status": "Active"
+    },
+    {
+      "id": "16",
+      "name": "Station 16",
+      "location": "Location 16",
+      "status": "Inactive"
+    },
+    {
+      "id": "17",
+      "name": "Station 17",
+      "location": "Location 17",
+      "status": "Active"
+    },
+    {
+      "id": "18",
+      "name": "Station 18",
+      "location": "Location 18",
+      "status": "Inactive"
+    },
+    {
+      "id": "19",
+      "name": "Station 19",
+      "location": "Location 19",
+      "status": "Active"
+    },
+    {
+      "id": "20",
+      "name": "Station 20",
+      "location": "Location 20",
+      "status": "Inactive"
+    },
+    {
+      "id": "21",
+      "name": "Station 21",
+      "location": "Location 21",
+      "status": "Active"
+    },
+    {
+      "id": "22",
+      "name": "Station 22",
+      "location": "Location 22",
+      "status": "Inactive"
+    },
+    {
+      "id": "23",
+      "name": "Station 23",
+      "location": "Location 23",
+      "status": "Active"
+    },
+    {
+      "id": "24",
+      "name": "Station 24",
+      "location": "Location 24",
+      "status": "Inactive"
+    },
+    {
+      "id": "25",
+      "name": "Station 25",
+      "location": "Location 25",
+      "status": "Active"
+    },
+    {
+      "id": "26",
+      "name": "Station 26",
+      "location": "Location 26",
+      "status": "Inactive"
+    },
+    {
+      "id": "27",
+      "name": "Station 27",
+      "location": "Location 27",
+      "status": "Active"
+    },
+    {
+      "id": "28",
+      "name": "Station 28",
+      "location": "Location 28",
+      "status": "Inactive"
+    },
+    {
+      "id": "29",
+      "name": "Station 29",
+      "location": "Location 29",
+      "status": "Active"
+    },
+    {
+      "id": "30",
+      "name": "Station 30",
+      "location": "Location 30",
+      "status": "Inactive"
+    },
+    {
+      "id": "31",
+      "name": "Station 31",
+      "location": "Location 31",
+      "status": "Active"
+    },
+    {
+      "id": "32",
+      "name": "Station 32",
+      "location": "Location 32",
+      "status": "Inactive"
+    },
+    {
+      "id": "33",
+      "name": "Station 33",
+      "location": "Location 33",
+      "status": "Active"
+    },
+    {
+      "id": "34",
+      "name": "Station 34",
+      "location": "Location 34",
+      "status": "Inactive"
+    },
+    {
+      "id": "35",
+      "name": "Station 35",
+      "location": "Location 35",
+      "status": "Active"
+    },
+    {
+      "id": "36",
+      "name": "Station 36",
+      "location": "Location 36",
+      "status": "Inactive"
+    },
+    {
+      "id": "37",
+      "name": "Station 37",
+      "location": "Location 37",
+      "status": "Active"
+    },
+    {
+      "id": "38",
+      "name": "Station 38",
+      "location": "Location 38",
+      "status": "Inactive"
+    },
+    {
+      "id": "39",
+      "name": "Station 39",
+      "location": "Location 39",
+      "status": "Active"
+    },
+    {
+      "id": "40",
+      "name": "Station 40",
+      "location": "Location 40",
+      "status": "Inactive"
+    },
+    {
+      "id": "41",
+      "name": "Station 41",
+      "location": "Location 41",
+      "status": "Active"
+    },
+    {
+      "id": "42",
+      "name": "Station 42",
+      "location": "Location 42",
+      "status": "Inactive"
+    },
+    {
+      "id": "43",
+      "name": "Station 43",
+      "location": "Location 43",
+      "status": "Active"
+    },
+    {
+      "id": "44",
+      "name": "Station 44",
+      "location": "Location 44",
+      "status": "Inactive"
+    },
+    {
+      "id": "45",
+      "name": "Station 45",
+      "location": "Location 45",
+      "status": "Active"
+    },
+    {
+      "id": "46",
+      "name": "Station 46",
+      "location": "Location 46",
+      "status": "Inactive"
+    },
+    {
+      "id": "47",
+      "name": "Station 47",
+      "location": "Location 47",
+      "status": "Active"
+    },
+    {
+      "id": "48",
+      "name": "Station 48",
+      "location": "Location 48",
+      "status": "Inactive"
+    },
+    {
+      "id": "49",
+      "name": "Station 49",
+      "location": "Location 49",
+      "status": "Active"
+    },
+    {
+      "id": "50",
+      "name": "Station 50",
+      "location": "Location 50",
+      "status": "Inactive"
+    },
+    {
+      "id": "51",
+      "name": "Station 51",
+      "location": "Location 51",
+      "status": "Active"
+    },
+    {
+      "id": "52",
+      "name": "Station 52",
+      "location": "Location 52",
+      "status": "Inactive"
+    },
+    {
+      "id": "53",
+      "name": "Station 53",
+      "location": "Location 53",
+      "status": "Active"
+    },
+    {
+      "id": "54",
+      "name": "Station 54",
+      "location": "Location 54",
+      "status": "Inactive"
+    },
+    {
+      "id": "55",
+      "name": "Station 55",
+      "location": "Location 55",
+      "status": "Active"
+    },
+    {
+      "id": "56",
+      "name": "Station 56",
+      "location": "Location 56",
+      "status": "Inactive"
+    },
+    {
+      "id": "57",
+      "name": "Station 57",
+      "location": "Location 57",
+      "status": "Active"
+    },
+    {
+      "id": "58",
+      "name": "Station 58",
+      "location": "Location 58",
+      "status": "Inactive"
+    },
+    {
+      "id": "59",
+      "name": "Station 59",
+      "location": "Location 59",
+      "status": "Active"
+    },
+    {
+      "id": "60",
+      "name": "Station 60",
+      "location": "Location 60",
+      "status": "Inactive"
+    },
+    {
+      "id": 61,
+      "name": "Arthur",
+      "location": "Location61",
+      "status": "Active"
+    }
+  ]
+}
